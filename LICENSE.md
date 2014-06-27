@@ -1,1 +1,2 @@
-GPL v2
+License: [GPL v2](https://gnu.org/licenses/old-licenses/gpl-2.0.txt)
+
